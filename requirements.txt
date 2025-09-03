@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain
+langchain-openai
+python-dotenv
+streamlit
+tavily-python
+certifi
+pip-system-certs
+langgraph
+ipython
+feedparser
+st-clickable-images
